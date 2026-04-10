@@ -119,7 +119,5 @@ python main.py
 ---
 
 ## 👨‍💻 Author
-
-* Your Name
 S.Hemalatha
 
