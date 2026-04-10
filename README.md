@@ -86,6 +86,10 @@ python main.py
 ## Confusion Matrix
 ![Confusion Matrix](outputs/confusion_matrix_final.png)
 
+## 🎥 Demo Video
+
+[Click here to watch the demo](https://youtu.be/VRAKW5C0eC4)
+
 ### Terminal Output
 ![Terminal Output](images/output_terminal1.png)
 
