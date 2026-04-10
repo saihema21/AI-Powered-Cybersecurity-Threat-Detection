@@ -84,7 +84,7 @@ python main.py
 ### 📸 Project Outputs
 
 ## Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](outputs/confusion_matrix_final.png)
 
 ### Terminal Output
 ![Terminal Output](images/output_terminal1.png)
